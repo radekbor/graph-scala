@@ -1,5 +1,7 @@
 package dev.borowiecki.dijkstra
 
+import dev.borowiecki.core.Connection
+
 import scala.annotation.tailrec
 
 

@@ -1,0 +1,46 @@
+From,To,Km
+Warszawa,Łódź,140
+Warszawa,Bydgoszcz,260
+Warszawa,Lublin,170
+Warszawa,Białystok,200
+Warszawa,Radom,105
+Warszawa,Olsztyn,215
+Warszawa,Toruń,210
+Kraków,Katowice,80
+Kraków,Kielce,115
+Kraków,Rzeszów,165
+Kraków,Bielsko-Biała,90
+Łódź,Bydgoszcz,230
+Łódź,Poznań,210
+Łódź,Katowice,200
+Łódź,Toruń,180
+Łódź,Częstochowa,125
+Łódź,Kielce,150
+Wrocław,Poznań,180
+Wrocław,Opole,100
+Wrocław,Zielona Góra,160
+Poznań,Gdańsk,300
+Poznań,Szczecin,265
+Poznań,Bydgoszcz,140
+Poznań,Gorzów Wielkopolski,145
+Poznań,Zielona Góra,135
+Gdańsk,Szczecin,360
+Gdańsk,Bydgoszcz,170
+Gdańsk,Gdynia,25
+Gdańsk,Olsztyn,170
+Gdynia,Koszalin,175
+Koszalin,Szczecin,160
+Szczecin,Gorzów Wielkopolski,105
+Gorzów Wielkopolski,Zielona Góra,110
+Bydgoszcz,Toruń,50
+Toruń,Olsztyn,175
+Olsztyn,Białystok,220
+Białystok,Lublin,255
+Lublin,Radom,115
+Lublin,Rzeszów,170
+Radom,Kielce,80
+Kielce,Częstochowa,130
+Katowice,Częstochowa,75
+Katowice,Gliwice,30
+Katowice,Bielsko-Biała,60
+Gliwice,Opole,80
